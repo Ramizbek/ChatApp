@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618344239280",
+    "project_id": "chatapp-ce2d9",
+    "storage_bucket": "chatapp-ce2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618344239280:android:84e7868ae45528369eab75",
+        "android_client_info": {
+          "package_name": "ramizbek.aliyev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618344239280-6g9jc57sl5a5rgsag7tnsfcvrvlrvbir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAV6kRAfG8gUE0xqYw8k21uRDZlFwT56M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618344239280-6g9jc57sl5a5rgsag7tnsfcvrvlrvbir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
